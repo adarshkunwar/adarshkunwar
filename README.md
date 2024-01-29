@@ -2,7 +2,7 @@
 I like coding whlie deafening myself into some obscure playlist. You will mostly find me working on JavaScript, TypeScript and Dart (I have flutter to thank for that). But, Go and Rust will be joining the stack pretty soon.
 
 Oh and I forgot to mention.
-I use NeoVim Btw (the greatest editor of all time).
+<br> I use NeoVim Btw (the greatest editor of all time).
 
 
 ## 🌐 Socials:
